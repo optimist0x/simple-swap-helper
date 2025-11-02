@@ -1,17 +1,26 @@
 # simple-swap-helper
 
-Классическая игра Змейка на HTML5 Canvas и JavaScript.
+Classic Snake game built with HTML5 Canvas and JavaScript.
 
-## Особенности
-- Плавное управление
-- Система счета
-- Пауза и перезапуск
-- Адаптивный дизайн
+## Features
+- Smooth controls with arrow keys
+- Score tracking system
+- Pause and restart functionality
+- Responsive design
+- Clean and modern UI
 
-## Управление
-- Стрелки: движение змейки
-- Кнопка "Пауза": приостановить игру
-- Кнопка "Начать игру": новая игра
+## Controls
+- Arrow Keys: Move the snake
+- Start Game: Begin a new game
+- Pause: Pause/resume the current game
 
-## Цель
-Собирайте красную еду, чтобы расти и набирать очки!
+## Gameplay
+- Collect red food to grow longer
+- Avoid hitting walls or yourself
+- Higher score means faster gameplay
+
+## Installation
+Clone this repository and open `index.html` in your browser.
+
+## Browser Support
+Works in all modern browsers with Canvas support.
